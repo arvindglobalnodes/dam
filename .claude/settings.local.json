@@ -9,7 +9,13 @@
       "Bash(node:*)",
       "Bash(npm install:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)",
+      "WebFetch(domain:dam2025-ev2ob5hz0-arvinds-projects-55ffb308.vercel.app)"
     ],
     "deny": [],
     "ask": []
